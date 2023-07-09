@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [Using Data to Choose a Linux Distro](http://example.org/linux-poll/)
-- [Why I Wont Be Joining Threads](http://example.org/why-i-wont-be-joining-threads/)
-- [18 Month reMarkable 2 Review](http://example.org/remarkable-2/)
-- [Frogs on a Log](http://example.org/frogs-on-a-log/)
-- [Self Hosted Software List](http://example.org/self-hosted/)
+- [Using Data to Choose a Linux Distro](http://scottk.mba/linux-poll/)
+- [Why I Wont Be Joining Threads](http://scottk.mba/why-i-wont-be-joining-threads/)
+- [18 Month reMarkable 2 Review](http://scottk.mba/remarkable-2/)
+- [Frogs on a Log](http://scottk.mba/frogs-on-a-log/)
+- [Self Hosted Software List](http://scottk.mba/self-hosted/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
