@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [A Piece of AI History](http://scottk.mba/ai-history/)
 - [The Ethics of Artificial Intelligence](http://scottk.mba/ai-ethics/)
 - [Crabs in a Bucket](http://scottk.mba/crabs/)
 - [A Week with Linux Mint](http://scottk.mba/linux-mint-first-impressions/)
 - [Using Data to Choose a Linux Distro](http://scottk.mba/linux-poll/)
-- [Why I Wont Be Joining Threads](http://scottk.mba/why-i-wont-be-joining-threads/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
