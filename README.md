@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [How to Join a Board of Directors](http://scottk.mba/how-to-join-a-board-of-directors/)
 - [Tennessee 2023](http://scottk.mba/tennessee-2023/)
 - [A Matter of Structural Preference](http://scottk.mba/a-matter-of-structural-preference/)
 - [Real Estate by the Numbers](http://scottk.mba/real-estate-by-the-numbers/)
 - [Design Archival Project](http://scottk.mba/design-archival-project/)
-- [Keep Moving](http://scottk.mba/keep-moving/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
