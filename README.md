@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [You Should Have a Website](http://scottk.mba/you-should-have-a-website/)
 - [Automate Your Data Governance](http://scottk.mba/automate-your-data-governance/)
 - [Leveraging the Power of No-Code](http://scottk.mba/leveraging-the-power-of-no-code/)
 - [FIRE Flow Chart](http://scottk.mba/fire-flow-chart/)
 - [How to Join a Board of Directors](http://scottk.mba/how-to-join-a-board-of-directors/)
-- [Tennessee 2023](http://scottk.mba/tennessee-2023/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
