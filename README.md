@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Custom Terminal Commands in MacOS](http://scottk.mba/how-to-create-custom-terminal-commands-in-macos/)
 - [How to Automate Anything](http://scottk.mba/how-to-automate-anything/)
 - [Personal Automations](http://scottk.mba/personal-automations/)
 - [Burning CDs in 2023](http://scottk.mba/burning-cds-in-2023/)
 - [You Should Have a Website](http://scottk.mba/you-should-have-a-website/)
-- [Automate Your Data Governance](http://scottk.mba/automate-your-data-governance/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
