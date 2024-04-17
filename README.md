@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Keeping Analog Alive](http://scottk.mba/keeping-analog-alive/)
 - [Unsubscribing from New Homeowner Scams](http://scottk.mba/new-homeowner-scams/)
 - [First One Down](http://scottk.mba/first-one-down/)
 - [Ozymandias](http://scottk.mba/ozymandias/)
 - [24 in &#39;24](http://scottk.mba/24-in-24/)
-- [Happy Holidays](http://scottk.mba/happy-holidays/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
