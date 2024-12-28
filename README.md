@@ -4,11 +4,11 @@ I create automated data systems, write code, and blog on my [personal site](http
 
 ## Latest blog posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Wrapping Up 2024](http://scottk.mba/wrapping-up-2024/)
 - [Markham&#39;s Brotherhood](http://scottk.mba/markhams-brotherhood/)
 - [Goals vs. Objectives](http://scottk.mba/goals-vs-objectives/)
 - [A Postcard from the Capitol](http://scottk.mba/a-postcard-from-the-capitol/)
 - [Homelab Update](http://scottk.mba/homelab-update/)
-- [6-to-1 Grocery Method](http://scottk.mba/6-to-1-grocery-method/)
 <!-- BLOG-POST-LIST:END -->
 [Read more blog posts ->](https://scottk.mba/blog/)
 
