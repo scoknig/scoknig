@@ -15,7 +15,6 @@ I create automated data systems, write code, and blog on my [personal site](http
 ## Where to find me 📍
 
 - [My website](https://scottk.mba/)
-- [Mastodon](https://fosstodon.org/@scoknig)
 
 ## Support my work ☕️
 Help me stay caffeinated so I can write more code and blog posts. 
